@@ -41,11 +41,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanbhere&show_icons=true&theme=radical" alt="Darshan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanbhere7&show_icons=true&theme=radical" alt="Darshan's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanbhere&theme=radical" alt="Darshan's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanbhere7&theme=radical" alt="Darshan's GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbhere&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbhere7&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
