@@ -1,45 +1,45 @@
-<h1 align="center">✨ Hi there, I'm <span style="color:#f39c12;">Darshan Bhere</span> 👋</h1>
+<!-- HEADER -->
+<h1 align="center">✨ Hey there, I'm <span style="color:#f39c12;">Darshan Bhere</span> 👋</h1>
 <h3 align="center">🚀 Aspiring Software Developer | MERN & Java Enthusiast | MCA @ SPIT Mumbai</h3>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Java+Lover+%7C+MERN+Stack+Fanatic;Building+Real-World+Tech+Solutions;Let's+Connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=700&lines=👨‍💻+Full+Stack+Developer+with+MERN+Expertise;☕+Java+Enthusiast+%7C+DSA+Explorer;🚀+Building+Real+World+Solutions;📬+Let's+Connect+%26+Collaborate!" alt="Typing SVG" />
 </p>
-
 
 ---
 
-## 💡 About Me
+## 🧑‍💻 About Me
 
 - 🎓 MCA Student at **SPIT Mumbai**
-- 💻 Passionate about **MERN Stack Development** and **Core Java**
-- 🌱 Currently learning:
-  - 🚀 **Advanced Backend (Node.js + Express)**
-  - ☁️ **Cloud Hosting (Render, Vercel, Netlify)**
-  - 🧠 **Data Structures & System Design**
-- 🧩 Actively solving problems on **LeetCode**
-- 📧 Email me at: **darshanbhere2@gmail.com**
-- 📱 Phone: **8080583088**
-- 🎉 Fun Fact: I love turning creative ideas 💡 into real-world apps 🚀
+- 💻 Passionate about **Software Development**, especially **MERN** & **Java**
+- 🌱 Currently Learning:
+  - 🚀 Advanced Backend
+  - ☁️ Cloud Hosting (Render, Vercel)
+  - 🔍 DSA & System Design
+- 💡 Turning ideas 💡 into real apps 🚀
+- 📬 Email: `darshanbhere2@gmail.com`
+- 📱 Phone: `8080583088`
 
 ---
 
 ## 🚀 Projects Showcase
 
-| 💻 Project | 📝 Description | 🛠️ Tech Stack |
+| 🚧 Project | 📄 Description | 🛠️ Tech Stack |
 |-----------|----------------|----------------|
-| 🧑‍💼 **Employee Management System** | A desktop-based CRUD system to manage employee records | `Java`, `Swing`, `JDBC` |
-| 🚗 **CarsWorld** | A responsive car selling website | `MongoDB`, `Express`, `React`, `Node.js` |
-| 🌾 **Unnati** | Platform supporting rural girls' development | `MERN Stack`, `Firebase` |
-| 🧳 **WanderSplit** | Travel expense splitting mobile app | `Flutter`, `Firebase` |
+| 🧑‍💼 **Employee Management System** | Desktop CRUD for employee records | Java, Swing, JDBC |
+| 🚗 **CarsWorld** | Car selling web platform | MERN Stack |
+| 🌾 **Unnati** | Uplifting rural girls via tech | MERN + Firebase |
+| 🧳 **WanderSplit** | Expense splitter for travelers | Flutter, Firebase |
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:darshanbhere2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/darshan-bhere-b69a14260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/darshanbhere_7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/darshanbhere_7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -47,10 +47,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanbhere7&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanbhere7&theme=radical" width="45%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbhere7&layout=compact&theme=radical" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanbhere7&show_icons=true&theme=tokyonight&border_radius=10&custom_title=Darshan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darshanbhere7&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbhere7&layout=compact&theme=tokyonight&langs_count=8" width="50%" />
 </p>
 
 ---
@@ -72,5 +74,5 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <b>✨ Thanks for visiting! Let's build something awesome together. 🚀</b>
+  <b>✨ Thanks for visiting! Let’s build something amazing together! 💥</b>
 </p>
