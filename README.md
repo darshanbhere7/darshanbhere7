@@ -4,8 +4,9 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&lines=👨‍💻+Full+Stack+Developer+with+MERN+Expertise;☕+Java+Enthusiast+%7C+DSA+Explorer;🚀+Building+Real+World+Solutions;📬+Let's+Connect+%26+Collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Java+Lover+%7C+MERN+Stack+Fanatic;Building+Real-World+Tech+Solutions;Let's+Connect!" alt="Typing SVG" />
 </p>
+
 
 
 ---
