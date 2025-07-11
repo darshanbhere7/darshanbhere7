@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Developer | MERN & Java Enthusiast | MCA @ SPIT Mumbai</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%E2%9D%A4+MERN+Stack+Explorer;Building+Projects+That+Solve+Real+Problems;Let’s+Connect+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%E2%9D%A4+MERN+Stack+Explorer;Building+Projects+That+Solve+Real+Problems;Let’s+Connect+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 ---
