@@ -1,112 +1,145 @@
 <h1 align="center">Hi 👋, I'm Darshan Bhere</h1>
-<h3 align="center">🚀 Aspiring Software Developer | MERN & Java Enthusiast | MCA @ SPIT Mumbai</h3>
+<h3 align="center">
+Aspiring Software Engineer | Java & Full-Stack Developer | MCA @ SPIT Mumbai
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%E2%9D%A4+MERN+Stack+Explorer;Building+Projects+That+Solve+Real+Problems;Let’s+Connect+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer+in+the+Making;Java+%7C+Spring+Boot+%7C+MERN+Stack;Building+Scalable+and+Reliable+Systems;Problem+Solver+with+Strong+DSA+Foundation" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🎓 MCA Student at **SPIT Mumbai**
-- 💻 Passionate about **Software Development** with strong expertise in **MERN Stack**, **Java**, and **Flutter**
-- 🌱 Learning **Advanced Backend**, **Cloud Hosting**, and **System Design**
-- 🧠 Active on **LeetCode** – solving DSA problems and improving logic
-- 📫 Email: **darshanbhere2@gmail.com**
-- 📱 Phone: **8080583088**
-- ⚡ Fun Fact: I love transforming raw ideas 💡 into real-world applications 🚀
+## 👨‍💻 About Me
+
+- 🎓 **Master of Computer Applications (MCA)** at **Sardar Patel Institute of Technology, Mumbai** (GPA: **9.09**)
+- 💻 Aspiring **Software Engineer** with strong fundamentals in **Java**, **Backend Development**, and **Full-Stack Systems**
+- ⚙️ Hands-on experience building **production-grade applications** using **Spring Boot**, **MERN Stack**, and **AI-powered services**
+- 🧠 Actively practicing **DSA** and problem-solving on **LeetCode**
+- 🌱 Currently learning **Advanced Backend Engineering, Cloud Deployment, and System Design**
+- 📫 **Email:** darshanbhere2@gmail.com  
+- 📱 **Phone:** +91 8080583088  
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🏎️ [CarsWorld – Car Rental Platform](https://github.com/darshanbhere7/carsworld)
-> **MERN Stack | Socket.io | ImageKit | Three.js**
+### 📊 **PulseESG – AI-Driven ESG Risk Intelligence Platform**
+**Spring Boot | FastAPI | React | PostgreSQL | NLP**
 
-- Full-stack car rental platform with **user/admin dashboards**, **JWT auth**, **wishlist**, and **booking management**
-- Integrated **real-time updates** using `Socket.io` and **ImageKit** for optimized car image handling
-- UI built with **React (Vite)**, **Tailwind CSS v4**, **ShadCN UI**, **Framer Motion**, and **Three.js** for 3D car views
+- Built an **AI-powered ESG intelligence engine** using **FastAPI** and **spaCy** to analyze unstructured text and extract ESG risk signals  
+- Designed a **rule-based ESG scoring system** using event-driven NLP logic to compute ESG scores and classify risk levels  
+- Developed **secure backend services** with **Spring Boot**, **JWT authentication**, and **Role-Based Access Control (RBAC)**  
+- Managed ESG data and audit history using **PostgreSQL (Supabase)**  
+- Created a responsive **ESG analytics dashboard** using **React (Vite)**, **Tailwind CSS**, **shadcn/ui**, and **Recharts**
 
----
-
-#### 🧳 [WanderSplit – Travel Expense Splitter](https://github.com/darshanbhere7/wandersplit)
-> **Flutter | Firebase | Dart | fl_chart**
-
-- Cross-platform mobile app to **track & split trip expenses**
-- Features: **custom splits**, **recurring costs**, **receipt uploads**, and **settlement analytics**
-- Tech: Firebase Auth, Cloud Firestore, and responsive dark/light UI with onboarding flow
+🔗 **GitHub Repo:** https://github.com/darshanbhere7/PulseESG  
 
 ---
 
-#### 📊 [AlgoTraceX – DSA Visualization & Learning Platform](https://github.com/darshanbhere7/algotracex)
-> **MERN Stack | Gemini API | AI Assistant**
+### 📈 **AlgoTraceX – DSA Learning & Visualization Platform**
+**MERN Stack | Gemini API | JWT | RBAC**
 
-- Full-stack platform for **interactive DSA learning** with visualizations, tests, and topic-wise tracking
-- Built **role-based modules** (Admin & User), JWT auth, and an **AI-powered assistant** using Google Gemini API
-- Admin panel supports content curation, analytics, and real-time test performance insights
+- Developed a full-stack platform for **interactive DSA learning** with real-time visualizations and structured practice modules  
+- Designed scalable system architecture with **JWT-based authentication**, **RBAC**, secure APIs, and optimized data models  
+- Integrated **Gemini-powered AI tools** for:
+  - DSA chatbot assistance  
+  - Code generation & conversion  
+  - Debugging support  
+  - Time & space complexity analysis  
+- Built admin features for **content management, analytics, and test performance insights**
 
----
-
-#### 🌾 [Unnati – Rural Girls' Empowerment Platform](https://github.com/darshanbhere7/unnati)
-> **MERN Stack | Firebase | React Vite | Radix UI**
-
-- Social impact project for **rural girl mentorship**, e-learning, and community support
-- Built responsive frontend pages using **ShadCN UI**, **Tailwind CSS**, and **Radix UI**
-- Focused on creating clean UX for dashboards, mentor discovery, and learning paths
+🔗 **GitHub Repo:** https://github.com/darshanbhere7/algotracex  
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚗 **CarsWorld – Car Rental Platform**
+**MERN Stack | Socket.io | ImageKit | Three.js**
 
-#### 💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- Built a **full-stack car rental platform** with separate **User and Admin modules**  
+- Implemented **JWT authentication**, booking workflows, wishlists, reviews, and image uploads  
+- Enabled **real-time booking updates** using **Socket.io** to ensure availability consistency  
+- Designed a modern UI using **React (Vite)**, **Tailwind CSS**, **ShadCN UI**, **Framer Motion**, and **Three.js** for interactive car views  
 
-#### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### 🗃️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 🧑‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🛠️ Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🔗 **GitHub Repo:** https://github.com/darshanbhere7/carsworld  
 
 ---
 
-### 📈 GitHub Stats
+### 🧳 **WanderSplit – Travel Expense Splitter**
+**Flutter | Firebase | Dart**
+
+- Developed a cross-platform mobile app to **track and split group travel expenses**  
+- Implemented features like **custom expense splits**, recurring costs, and settlement summaries  
+- Used **Firebase Authentication** and **Cloud Firestore** for secure and real-time data storage  
+- Built a clean, responsive UI with **dark/light mode support** and smooth onboarding flow  
+
+🔗 **GitHub Repo:** https://github.com/darshanbhere7/wandersplit  
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Frontend
+- React.js, Tailwind CSS, HTML5, CSS3  
+- Framer Motion, Three.js  
+
+### ⚙️ Backend
+- Java- Spring Boot  
+- Node.js, Express.js  
+
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
+- PostgreSQL (Supabase)  
+
+### 🧑‍💻 Programming Languages
+- Java  
+- Python  
+
+### 🛠️ Tools & Version Control
+- Git, GitHub  
+
+### 🧠 Core Competencies
+- Software Development Life Cycle (SDLC)  
+- Debugging & Troubleshooting  
+- Unit Testing  
+- Requirement Analysis  
+
+---
+
+## 📜 Certifications & Achievements
+
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02) – Certification Prep**
+- 🧮 **SQL for Data Analysis – Simplilearn**
+- 🏆 **Top 10 Teams – HackFusion 2.0**, National-level Hackathon organized by **Google Developers Group (GDG)**
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanbhere7&show_icons=true&theme=radical" alt="Darshan's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanbhere7&theme=radical" alt="Darshan's GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbhere7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanbhere7&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanbhere7&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbhere7&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:darshanbhere2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/darshan-bhere-b69a14260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/darshanbhere_7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:darshanbhere2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/darshan-bhere-b69a14260/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/darshanbhere_7/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-<p align="center"><b>Thanks for visiting! ✨ Let's build something amazing together.</b></p>
+<p align="center"><b>Focused on building scalable systems and growing as a Software Engineer.</b></p>
