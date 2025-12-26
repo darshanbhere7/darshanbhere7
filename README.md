@@ -14,7 +14,6 @@ Aspiring Software Engineer | Java & Full-Stack Developer | MCA @ SPIT Mumbai
 - 🎓 **Master of Computer Applications (MCA)** at **Sardar Patel Institute of Technology, Mumbai** (GPA: **9.09**)
 - 💻 Aspiring **Software Engineer** with strong fundamentals in **Java**, **Backend Development**, and **Full-Stack Systems**
 - ⚙️ Hands-on experience building **production-grade applications** using **Spring Boot**, **MERN Stack**, and **AI-powered services**
-- 🧠 Actively practicing **DSA** and problem-solving on **LeetCode**
 - 🌱 Currently learning **Advanced Backend Engineering, Cloud Deployment, and System Design**
 - 📫 **Email:** darshanbhere2@gmail.com  
 - 📱 **Phone:** +91 8080583088  
@@ -134,9 +133,6 @@ Aspiring Software Engineer | Java & Full-Stack Developer | MCA @ SPIT Mumbai
   </a>
   <a href="https://www.linkedin.com/in/darshan-bhere-b69a14260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/darshanbhere_7/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
