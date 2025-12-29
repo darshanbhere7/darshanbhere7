@@ -116,11 +116,11 @@ Aspiring Software Engineer | Java & Full-Stack Developer | MCA @ SPIT Mumbai
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanbhere7&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanbhere7&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanbhere7&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=darshanbhere7&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbhere7&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbhere7&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
